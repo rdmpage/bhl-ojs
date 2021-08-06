@@ -11,3 +11,7 @@ Exploring Open Journal Systems (OJS) and BHL
 
 ## Example issues
 https://raw.githubusercontent.com/pkp/ojs/main/cypress/fixtures/export-issues.xml
+
+## Test drive
+
+https://demo.publicknowledgeproject.org/ojs3/testdrive/index.php/testdrive-journal/index
